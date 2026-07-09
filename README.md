@@ -1,6 +1,8 @@
 <div align="center">
+<!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F08,50:1A2B1A,100:8AFF57&height=200&section=header&text=Muhammad%20Saad&fontSize=55&fontColor=8AFF57&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Next.js&descAlignY=55&descColor=CAFF3C&animation=fadeIn" width="100%" />
 
+<!-- TYPING SVG -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8AFF57&center=true&vCenter=true&width=650&lines=%24+whoami;Full-Stack+Developer+%40+Karachi%2C+Pakistan;%24+stack+--list;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;%24+currently+learning;TypeScript+deep-dive+%26+advanced+patterns;%24+status;Open+to+full-time+%2B+freelance+work" alt="Typing SVG" />
 </a>
@@ -103,7 +105,7 @@ Full-stack Software Developer with a portfolio of shipped SaaS, e-commerce, and 
 ### 🏆 Trophies & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaslam99&bg_color=0A0F08&color=8AFF57&line=CAFF3C&point=E8F5E1&area=true&hide_border=true" width="100%" />
 </div>
