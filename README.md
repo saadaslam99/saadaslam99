@@ -1,8 +1,6 @@
 <div align="center">
-<!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F08,50:1A2B1A,100:8AFF57&height=200&section=header&text=Muhammad%20Saad&fontSize=55&fontColor=8AFF57&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Next.js&descAlignY=55&descColor=CAFF3C&animation=fadeIn" width="100%" />
 
-<!-- TYPING SVG -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8AFF57&center=true&vCenter=true&width=650&lines=%24+whoami;Full-Stack+Developer+%40+Karachi%2C+Pakistan;%24+stack+--list;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;%24+currently+learning;TypeScript+deep-dive+%26+advanced+patterns;%24+status;Open+to+full-time+%2B+freelance+work" alt="Typing SVG" />
 </a>
@@ -94,20 +92,18 @@ Full-stack Software Developer with a portfolio of shipped SaaS, e-commerce, and 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saadaslam99&show_icons=true&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&icon_color=CAFF3C&border_color=1A2B1A&v=1" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saadaslam99&background=0A0F08&stroke=1A2B1A&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&border=1A2B1A" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saadaslam99&show_icons=true&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&icon_color=CAFF3C&border_color=1A2B1A&cache_bypass=20260709" />
+  <img height="165" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=saadaslam99&background=0A0F08&stroke=1A2B1A&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&border=1A2B1A" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadaslam99&layout=compact&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&border_color=1A2B1A&v=1" />
-  
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadaslam99&layout=compact&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&border_color=1A2B1A&cache_bypass=20260709" />
 </div>
 
 ### 🏆 Trophies & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=dracula&no-bg=true&margin-w=8&margin-h=8&v=1" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaslam99&bg_color=0A0F08&color=8AFF57&line=CAFF3C&point=E8F5E1&area=true&hide_border=true&v=1" width="100%" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=dracula&no-bg=true&margin-w=8&margin-h=8&cache_bypass=20260709" />
+  <br><br>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saadaslam99&bg_color=0A0F08&color=8AFF57&line=CAFF3C&point=E8F5E1&area=true&hide_border=true&cache_bypass=20260709" width="100%" />
 </div>
 
 ### 🐍 Contributions Graph
