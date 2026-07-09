@@ -95,19 +95,19 @@ Full-stack Software Developer with a portfolio of shipped SaaS, e-commerce, and 
 
 <div align="center">
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saadaslam99&show_icons=true&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&icon_color=CAFF3C&border_color=1A2B1A&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saadaslam99&show_icons=true&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&icon_color=CAFF3C&border_color=1A2B1A&v=1" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saadaslam99&background=0A0F08&stroke=1A2B1A&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&border=1A2B1A" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadaslam99&layout=compact&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&border_color=1A2B1A&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadaslam99&layout=compact&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&border_color=1A2B1A&v=1" />
   
 </div>
 
 ### 🏆 Trophies & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=dracula&no-bg=true&margin-w=8&margin-h=8&v=1" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaslam99&bg_color=0A0F08&color=8AFF57&line=CAFF3C&point=E8F5E1&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadaslam99&bg_color=0A0F08&color=8AFF57&line=CAFF3C&point=E8F5E1&area=true&hide_border=true&v=1" width="100%" />
 </div>
 
 ### 🐍 Contributions Graph
