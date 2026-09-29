@@ -1,124 +1,27 @@
-<div align="center">
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F08,50:1A2B1A,100:8AFF57&height=200&section=header&text=Muhammad%20Saad&fontSize=55&fontColor=8AFF57&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Next.js&descAlignY=55&descColor=CAFF3C&animation=fadeIn" width="100%" />
+# 💫 About Me:
+🔭 I’m currently working on: Modern SaaS platforms and intelligent automation systems.   👯 I’m looking to collaborate on: High-impact open-source utilities and full-stack solutions.   🤝 I’m looking for help with: Cloud architecture patterns and microservice scalability.   🌱 I’m currently learning: Agentic AI frameworks and low-latency system design.   💬 Ask me about: Web performance, API design, and workflow automation.   ⚡ Fun fact: I debug best with dark mode enabled and automated test suites green.   
 
-<!-- TYPING SVG -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8AFF57&center=true&vCenter=true&width=650&lines=%24+whoami;Full-Stack+Developer+%40+Karachi%2C+Pakistan;%24+stack+--list;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;%24+currently+learning;TypeScript+deep-dive+%26+advanced+patterns;%24+status;Open+to+full-time+%2B+freelance+work" alt="Typing SVG" />
-</a>
-</div>
 
-## 👨‍💻 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Saad) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad Saad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsaadaslam699@gmail.com) 
 
-Full-stack Software Developer with a portfolio of shipped SaaS, e-commerce, and hospitality websites. I build with **React, Node.js, and Next.js** — and because I also come from a graphic/brand design background, I own projects end-to-end: from architecture through visual QA to launch. Comfortable working independently with international clients.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=saadaslam99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=saadaslam99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saadaslam99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Role:** Full-Stack Software Developer
-- **Experience:** ~1 year (Freelance + Internship)
-- **Domain:** SaaS · E-commerce · Hospitality · Real Estate · Booking Systems
-- **Open To:** Full-time roles · Freelance / contract work
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Expertise & Tech Stack
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Frontend Development** | ●●●●○ | React, Next.js, responsive/mobile-first, Core Web Vitals |
-| **Backend Development** | ●●●●○ | Node.js, REST APIs, 3rd-party integrations (payments, maps) |
-| **Cloud & Deployment** | ●●●○○ | AWS, full project lifecycle (deploy → post-launch support) |
-| **UI/UX & Brand Design** | ●●●●○ | Figma, Photoshop, Illustrator, design systems, CMYK print |
-| **SEO & i18n** | ●●●○○ | Localisation, SEO fundamentals, performance tuning |
-| **Project Ownership** | ●●●●● | Discovery → scoping → dev → QA → deployment |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saadaslam99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=saadaslam99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Featured Projects
-
-<details open>
-<summary><b>🍽️ Stella Bistro — Live Café Site</b></summary>
-<br>
-<b>Stack:</b> Custom Theme · JavaScript · CSS3 <br>
-<b>Live:</b> <a href="https://stellabistro.netlify.app">stellabistro.netlify.app</a> <br>
-<b>Impact:</b> Contemporary lifestyle café site focused on visual branding, customer engagement, and digital growth across social platforms.
-</details>
-
-<details>
-<summary><b>☕ Le Mugs — Boutique Café Site</b></summary>
-<br>
-<b>Stack:</b> Custom Theme · JavaScript · CSS3 <br>
-<b>Live:</b> <a href="https://le-mugs.com">le-mugs.com</a> <br>
-<b>Impact:</b> French boutique café & brunch concept — cozy ambiance translated into a modern European-style digital experience.
-</details>
-
-<details>
-<summary><b>🏢 Real Estate Management System — SaaS</b></summary>
-<br>
-<b>Stack:</b> React · Next.js · AWS <br>
-<b>Impact:</b> Streamlined property maintenance workflows, reduced response time, and improved operational transparency.
-</details>
-
-<details>
-<summary><b>🕶️ Virtual Try-On System — SaaS (In Progress)</b></summary>
-<br>
-<b>Stack:</b> React · Next.js · AWS <br>
-<b>Impact:</b> AR/3D try-on SaaS application aiming to improve conversion rates and reduce returns by letting brands engage customers digitally.
-</details>
-
-<details>
-<summary><b>🎟️ Ticket Booking System — SaaS</b></summary>
-<br>
-<b>Stack:</b> React · Next.js <br>
-<b>Impact:</b> Real-time seat selection, secure payments, and digital confirmations. Streamlined event discovery and booking end-to-end.
-</details>
-
----
-
-## 💼 Experience & Education
-
-**Freelance Software Developer** | *Remote (Jun 2024 – Present)*
-* Engineered a Real Estate Management platform and a Virtual Try-On integration, reducing processing time from hours to seconds.
-* Integrated APIs: ChowNow, Google Maps, booking engines, payment gateways, WhatsApp Business.
-* Managed full project lifecycles independently (discovery → deployment).
-
-**Freelance Graphic & Brand Designer** | *Remote (Jun 2024 – Present)*
-* Delivered 180+ brand assets for international clients across wellness, legal, hospitality, and travel.
-* Built modular design systems including typography scales, colour tokens, and component libraries.
-
-**Intern — Web Developer** | *UpTech, Karachi (Jun 2024 – Sep 2024)*
-* Contributed to responsive web app development, UI/UX improvements, and performance optimization.
-
-🎓 **Education:** Nov 2023 – Jun 2027 (Expected) · Coursework: Data Structures, Algorithms, OOP, Databases, Web Development.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saadaslam99&show_icons=true&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&icon_color=CAFF3C&border_color=1A2B1A" />
-  <img height="165" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=saadaslam99&background=0A0F08&stroke=1A2B1A&ring=8AFF57&fire=CAFF3C&currStreakLabel=8AFF57&sideLabels=E8F5E1&dates=E8F5E1&border=1A2B1A" />
-  <br><br>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadaslam99&layout=compact&bg_color=0A0F08&title_color=8AFF57&text_color=E8F5E1&border_color=1A2B1A" />
-</div>
-
-### 🏆 Trophies & Activity
-
-<div align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=saadaslam99&theme=dracula&no-bg=true&margin-w=8&margin-h=8" />
-  <br><br>
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saadaslam99&bg_color=0A0F08&color=8AFF57&line=CAFF3C&point=E8F5E1&area=true&hide_border=true" width="100%" />
-</div>
-
-### 🐍 Contributions Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saadaslam99/saadaslam99/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/saadaslam99/saadaslam99/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <br>
-  <i>"Code it. Design it. Ship it."</i>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8AFF57,50:1A2B1A,100:0A0F08&height=100&section=footer" width="100%" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
