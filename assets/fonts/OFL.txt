@@ -1,0 +1,14 @@
+SIL OPEN FONT LICENSE Version 1.1 — 26 February 2007
+
+The fonts embedded in assets/*.svg (Inter Variable, JetBrains Mono Variable)
+are licensed under the SIL Open Font License 1.1:
+https://openfontlicense.org / https://scripts.sil.org/OFL
+
+Inter — Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
+JetBrains Mono — Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Font Software, to use, study, copy, merge, embed, modify, redistribute,
+and sell modified and unmodified copies of the Font Software, subject to the
+full license terms at the URL above. Neither the Font Software nor any of its
+individual components, in Original or Modified Versions, may be sold by itself.
